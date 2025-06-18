@@ -17,6 +17,7 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Ceci est un tuto pour apprendre git!
           </li>
+          <li>Je m'appelle Anda Le Dev et j'ai modifié ce projet</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
