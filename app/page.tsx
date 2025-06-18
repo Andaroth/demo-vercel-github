@@ -13,9 +13,9 @@ export default function Home() {
           priority
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          Bonjour Les Followers De Anda Le Pirate
+          <li>Bonjour Les Followers De Anda Le Pirate</li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            Ceci est un tuto pour apprendre git!
           </li>
         </ol>
 
